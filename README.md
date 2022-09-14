@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RanHaoLearn
 - 👀 I’m interested in Astronomy/Space Science.
-- 🌱 I’m currently learning Space Science in NSSC.
+- 🌱 I’m currently a Master's student studying Space Science/Solar physics/interplanetary physics/plasma physics in NSSC.
 - 📫 How to contact me: tel: +86 18651873598.   e-mail: hran@swl.ac.cn
 
 <!---
